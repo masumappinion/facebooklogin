@@ -71,7 +71,7 @@ dependencies {
     debugImplementation("com.facebook.android:facebook-android-sdk:latest.release")
     debugImplementation("com.google.firebase:firebase-auth-ktx")
     implementation(platform("com.google.firebase:firebase-bom:32.5.0"))
-
+    implementation("io.coil-kt:coil-compose:2.2.2")
 
     //facebook login
 }
